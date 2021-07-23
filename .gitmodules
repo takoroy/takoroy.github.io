@@ -1,0 +1,4 @@
+[submodule "_build/html"]
+	path = _build/html
+	url = https://github.com/takoroy/takoroy.github.io.git
+	branch = gh-pages
